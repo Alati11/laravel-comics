@@ -3,52 +3,52 @@
     
     <ul class="menu">
       <li class="menu-item ">
-        <a class="" href="{{ route('home') }}">
+        <a class="menu-link me-4" href="{{ route('home') }}">
           CHARACTERS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
+          COMICS
+        </a>
+      </li> 
+      <li class="menu-item">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>
       <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
-          COMICS
-        </a>
-      </li>
-      <li class="menu-item">
-        <a class="" href="{{ route('comics') }}">
+        <a class="menu-link me-4" href="{{ route('comics') }}">
           COMICS
         </a>
       </li>

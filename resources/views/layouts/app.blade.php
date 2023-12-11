@@ -19,6 +19,10 @@
     <header>
         @include('partials.header')
     </header>
+    <section>
+        @yield('hero')
+
+    </section>
 
     <main>
         @yield('content')

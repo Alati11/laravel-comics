@@ -1,8 +1,13 @@
 @extends('layouts.app')
 
+@section('hero')
+
+
+@endsection
+
 @section('content')
     <section>
-        <div class="container">
+        <div class="container bg-gray">
             <h1>Pagina Home</h1>
         </div>
     </section>
