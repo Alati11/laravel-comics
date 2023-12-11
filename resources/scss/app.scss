@@ -1,0 +1,23 @@
+@import '~bootstrap/scss/bootstrap';
+
+* {
+    margin:0;
+    padding: 0;
+
+    
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-items {
+    padding: 20px;
+    margin: 15px;
+}
+.container-menu {
+    display: flex;
+}
+
